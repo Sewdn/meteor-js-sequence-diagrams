@@ -1,5 +1,5 @@
 {
-  "name": "JS Sequence Diagrams",
+  "name": "js-sequence-diagrams",
   "description": "Draws simple SVG sequence diagrams from textual representation of the diagram.",
   "homepage": "https://github.com/Sewdn/meteor-js-sequence-diagrams",
   "author": "Pieter Soudan",
