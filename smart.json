@@ -1,0 +1,11 @@
+{
+  "name": "JS Sequence Diagrams",
+  "description": "Draws simple SVG sequence diagrams from textual representation of the diagram.",
+  "homepage": "https://github.com/Sewdn/meteor-js-sequence-diagrams",
+  "author": "Pieter Soudan",
+  "version": "1.0.4",
+  "git": "https://github.com/Sewdn/meteor-js-sequence-diagrams.git",
+  "packages": {
+    "raphaeljs": "2.1.1"
+  }
+}
